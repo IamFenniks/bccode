@@ -1,6 +1,6 @@
 const Header = () => {
     return(
-        <header className="header">
+        <header className="c-header">
             Header!
         </header>
     );

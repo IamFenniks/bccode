@@ -1,6 +1,6 @@
 const Aside = () => {
     return(
-        <aside className="aside">
+        <aside className="c-aside">
             Aside!
         </aside>
     );
