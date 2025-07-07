@@ -1,0 +1,5 @@
+gitk - открыть редактор commit-ов.
+ctrl + insert - скопировать commit.
+shift + insert - вставить commit.
+git checkout <commit> - откатиться к опредлённому commit-у.
+git checkout src/App.js ... - отменить изменения в файле.
