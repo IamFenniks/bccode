@@ -1,0 +1,6 @@
+.c_header {
+  grid-area: h;
+  background-color: skyblue;
+  display: grid;
+  place-items: center;
+}

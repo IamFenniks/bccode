@@ -1,0 +1,6 @@
+.c_footer {
+  grid-area: f;
+  background-color: skyblue;
+  display: grid;
+  place-items: center;
+}

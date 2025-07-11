@@ -1,0 +1,6 @@
+.c_main {
+  grid-area: m;
+  background-color: skyblue;
+  display: grid;
+  place-items: start;
+}

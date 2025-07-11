@@ -1,6 +1,8 @@
+import s from './aside.module.css'
+
 const Aside = () => {
     return(
-        <aside className="c-aside">
+        <aside className={ s.c_aside }>
             Aside!
         </aside>
     );

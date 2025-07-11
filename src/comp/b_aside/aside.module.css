@@ -1,0 +1,6 @@
+.c_aside {
+  grid-area: a;
+  background-color: skyblue;
+  display: grid;
+  place-items: start;
+}

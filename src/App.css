@@ -11,12 +11,6 @@ body {
   height: 100vh;
 }
 
-[class^="c-"] {
-  background-color: skyblue;
-  display: grid;
-  place-items: center;
-}
-
 .App {
   display: grid;
   gap: 20px;
@@ -27,17 +21,4 @@ body {
     "a a m m m m m m m m m m"
     "f f f f f f f f f f f f";
   grid-template-rows: 50px auto 50px;
-}
-
-.c-header {
-  grid-area: h;
-}
-.c-aside {
-  grid-area: a;
-}
-.c-main {
-  grid-area: m;
-}
-.c-footer {
-  grid-area: f;
 }
